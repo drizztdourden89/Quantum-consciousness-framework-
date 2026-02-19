@@ -1,0 +1,9 @@
+├── error_resilient_holonomic_qubit.py  # Main implementation
+├── QUANTUM_CONSCIOUSNESS_FRAMEWORK.md  # Equations 41-58
+├── LICENSE                              # Apache 2.0
+├── README.md                            # This file
+├── requirements.txt                      # Dependencies
+└── experiments/
+    ├── simulate_gates.py                 # Gate fidelity simulations
+    ├── test_error_resilience.py          # Error injection tests
+    └── visualize_setup.py                # Experimental setup diagrams
