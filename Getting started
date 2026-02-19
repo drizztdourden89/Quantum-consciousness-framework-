@@ -1,0 +1,4 @@
+git clone https://github.com/[drizztdourden89]/photonic-alchemy
+cd photonic-alchemy
+pip install -r requirements.txt
+python error_resilient_holonomic_qubit.py
