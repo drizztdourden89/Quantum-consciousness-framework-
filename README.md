@@ -3,11 +3,11 @@ built a mathematically rigorous framework for consciousness as a geometric phase
 # Photonic Alchemy: Error-Resilient Holonomic Quantum Computing
 ## Non-Abelian OAM Topology in Synthetic 3-Torus
 
-**Copyright © 2026 [Your Name]**  
+**Copyright © 2026 [gregory davis]**  
 **Repository Creation Date: February 19, 2026**  
 **License: Apache 2.0 (includes patent protection)**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.[YOUR-DOI].svg)](https://doi.org/10.5281/zenodo.[YOUR-DOI])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/10.5281/zenodo.18694739.svg)](https://doi.org/10.5281/zenodo.[YOUR-DOI])
 
 ---
 
